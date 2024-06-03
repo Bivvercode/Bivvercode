@@ -35,8 +35,6 @@ E-commerce Backend is a comprehensive project designed to mimic real-world e-com
 - API Framework: Django Rest Framework (DRF) for building RESTful APIs.
 - Testing Framework: Pytest for writing and running tests to ensure code quality and reliability.
 
-![KMM Compose Project Screenshot](https://github.com/Bivvercode/Bivvercode/blob/main/assets/kmm-compose-screenshot.png)
-
 ## All Projects
 
 Here is a list of all my projects. Click on the title to reveal more information.
@@ -120,13 +118,24 @@ Here is a list of all my projects. Click on the title to reveal more information
 </details>
 
 <details>
-  <summary><strong>Project 5</strong></summary>
-  A more detailed description of Project 5. Add information about the project's purpose, the tools and technologies you used, and what you learned from working on this project.
-</details>
+  <summary><strong>Fotbollskampen (iOS)</strong></summary>
 
-<details>
-  <summary><strong>Project 6</strong></summary>
-  A more detailed description of Project 6. Describe the project's background, its main features, and any technical challenges you solved.
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="https://github.com/Bivvercode/Bivvercode/blob/main/assets/fk_logo.jpeg" alt="Fotbollskampen Logo" width="128" style="margin-left: 20px;"/>
+  </div>
+  
+  Fotbollskampen was my first app I did and was originally published on App Store. The app was made for football enjoyers, especially targeting Swedish football fans. Each week you predicted the outcome of the matches in Allsvenskan and got points depending on the outcomes. You could start your own "Leagues" with your friends to compete against each other.
+  
+  It is made in Xcode using Swift and SwiftUI. For database I used Firebase "Real Time Database". Authentication is also made through Firebase. The football games and stats were fetched through Rest API.
+  
+  The app is unfortunately **REMOVED** from App Store due to complications.
+
+  <div align="center">
+    <img src="https://github.com/Bivvercode/Bivvercode/blob/main/assets/fk_1.png" alt="Fotbollskampen Screenshot 1" width="300"/>
+    <img src="https://github.com/Bivvercode/Bivvercode/blob/main/assets/fk_2.png" alt="Fotbollskampen Screenshot 2" width="300"/>
+    <img src="https://github.com/Bivvercode/Bivvercode/blob/main/assets/fk_3.png" alt="Fotbollskampen Screenshot 3" width="300"/>
+  </div>
+  
 </details>
 
 ## Skills
