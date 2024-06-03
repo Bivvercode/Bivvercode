@@ -90,8 +90,24 @@ Here is a list of all my projects. Click on the title to reveal more information
 </details>
 
 <details>
-  <summary><strong>Project 4</strong></summary>
-  A more detailed description of Project 4. You can also add links to demos, documentation, or other relevant resources.
+  <summary><strong>Better Math (iOS Group Project)</strong></summary>
+
+  [App Store](https://apps.apple.com/se/app/better-math/id1662503357?platform=iphone)
+
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="https://github.com/Bivvercode/Bivvercode/blob/main/assets/bm_logo.png" alt="Better Math Logo" width="128" style="margin-left: 20px;"/>
+  </div>
+  
+  Better Math is made in a group of three. It is a forum for math questions and discussions for all ages. You can create an account with email and password or ”Sign in with Apple”. After you have created an account you can write posts, comments and like/dislike other peoples posts and comments. Without an account you can still view other peoples posts and comments.
+  
+  Better Math is created  in Xcode using Swift and SwiftUI. The authentication and real time database is made through Firebase. We worked together using Git through Github.
+
+  <div align="center">
+    <img src="https://github.com/Bivvercode/Bivvercode/blob/main/assets/bm_1.png" alt="Better Math Screenshot 1" width="300"/>
+    <img src="https://github.com/Bivvercode/Bivvercode/blob/main/assets/bm_2.png" alt="Better Math Screenshot 2" width="300"/>
+    <img src="https://github.com/Bivvercode/Bivvercode/blob/main/assets/bm_3.png" alt="Better Math Screenshot 3" width="300"/>
+  </div>
+
 </details>
 
 <details>
