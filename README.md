@@ -1,5 +1,14 @@
 # Hi, I'm Bivvercode 👋
 
+## Table of Contents
+
+1. [About Me](#about-me)
+2. [Key Projects](#key-projects)
+3. [All Projects](#all-projects)
+4. [Skills](#skills)
+5. [Experience](#experience)
+6. [Contact](#contact)
+
 ## About Me
 
 I'm a passionate Software Developer specializing in mobile app and backend development. My expertise lies in Python and Django, where I focus on building robust and scalable backend architectures.
