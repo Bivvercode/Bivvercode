@@ -27,8 +27,6 @@ E-commerce Backend is a comprehensive project designed to mimic real-world e-com
 - API Framework: Django Rest Framework (DRF) for building RESTful APIs.
 - Testing Framework: Pytest for writing and running tests to ensure code quality and reliability.
 
-![E-commerce Backend Screenshot](https://github.com/Bivvercode/Bivvercode/blob/main/assets/ecommerce-backend-screenshot.png)
-
 ### Published Apps
 
 Here are some of the mobile applications I've developed and published on the App Store and Google Play Store.
