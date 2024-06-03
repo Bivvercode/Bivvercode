@@ -66,8 +66,14 @@ Here is a list of all my projects. Click on the title to reveal more information
 </details>
 
 <details>
-  <summary><strong>Project 3</strong></summary>
-  A more detailed description of Project 3. Here you can describe what the project is about, the technical aspects, and any future plans for development.
+  <summary><strong>Paint Pals (Android)</strong></summary>
+
+  [Google play](https://play.google.com/store/apps/details?id=se.alexanderandersson.paintpals)
+
+  Paint Pals was my first Android app and I wanted to do something different than ”pressing buttons in menus”. I chose to do a drawing app to test something new. Paint Pals is a simple drawing app, not made for artists. In Paint Pals you can draw with different sizes and colors on your brush. You can also use some premade shapes where you can choose color and size. You can save your drawings to your photo album with or without watermark. It is localized in Swedish and English.
+
+  Paint Pals is created in Android Studio using Kotlin and XML.
+  
 </details>
 
 <details>
