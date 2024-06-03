@@ -33,13 +33,18 @@ E-commerce Backend is a comprehensive project designed to mimic real-world e-com
 Here is a list of all my projects. Click on the title to reveal more information.
 
 <details>
-  <summary><strong>SortingAlgorithmsVisualizer</strong></summary>
+  <summary><strong>SortingAlgorithmsVisualizer KMM Compose (iOS & Android)</strong></summary>
   
   [GitHub repository](https://github.com/Bivvercode/SortingAlgorithmsVisualizer)
   
   SortingAlgorithmsVisualizer is pretty much a self explanatory name. This was my first "completed" hobby project fully public on GitHub. When I was planning this I wanted to do    something "simple" but still could challenge me. The reason for me to keep it simple was because this would be a cross platform app for Android and iOS. I wanted to be able to    test my skills in algorithms and by visualizing it I made it a bit harder.
   The app is using bubble sort as a visualization to show what happens in "the back". This app was made with KMM Compose Multiplatform. Most of the code is written in kotlin and    some minor parts in Swift. This made it possible to use one code base for both Android and iOS. 
 
+  <div align="center">
+    <img src="https://github.com/Bivvercode/Bivvercode/blob/main/assets/sav_1.png" alt="Screenshot 1" width="300"/>
+    <img src="https://github.com/Bivvercode/Bivvercode/blob/main/assets/sav_2.png" alt="Screenshot 2" width="300"/>
+    <img src="https://github.com/Bivvercode/Bivvercode/blob/main/assets/sav_3.png" alt="Screenshot 3" width="300"/>
+  </div>
   
 </details>
 
