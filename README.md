@@ -49,8 +49,20 @@ Here is a list of all my projects. Click on the title to reveal more information
 </details>
 
 <details>
-  <summary><strong>Project 2</strong></summary>
-  A more detailed description of Project 2. This can include the project's goals, main features, and lessons learned from the development process.
+  <summary><strong>Color Frenzy (Android Group Project)</strong></summary>
+
+  [Google play](https://play.google.com/store/apps/details?id=se.alexanderandersson.colorfrenzy)
+  
+  Color Frenzy is made in a group of three. This is a simple game where you have four buttons colored red, yellow, blue, and green. One of the colors will be randomly picked and shown at the top of the screen, and you have to press the correct color. If you press the wrong one, you lose and have to start over. There are three different difficulties, making this a simple game for every age. Then we have the time limit; you have a certain amount of time before you lose. For every point you get, the time will be shorter, making this harder and harder.
+  
+  Color Frenzy is made in Android Studio using Kotlin and XML. We worked together using Git through GitHub.
+
+  <div align="center">
+    <img src="https://github.com/Bivvercode/Bivvercode/blob/main/assets/clr_frz_1.png" alt="Color Frenzy Screenshot 1" width="300"/>
+    <img src="https://github.com/Bivvercode/Bivvercode/blob/main/assets/clr_frz_2.png" alt="Color Frenzy Screenshot 2" width="300"/>
+    <img src="https://github.com/Bivvercode/Bivvercode/blob/main/assets/clr_frz_3.png" alt="Color Frenzy Screenshot 3" width="300"/>
+  </div>
+  
 </details>
 
 <details>
