@@ -4,8 +4,8 @@
 
 1. [About Me](#about-me)
 2. [Key Projects](#key-projects)
-3. [All Projects](#all-projects)
-4. [Skills](#skills)
+3. [Other Projects](#other-projects)
+4. [Key Skills](#key-skills)
 5. [Relevant Experience](#relevant-experience)
 6. [Contact](#contact)
 
@@ -35,7 +35,7 @@ E-commerce Backend is a comprehensive project designed to mimic real-world e-com
 - API Framework: Django Rest Framework (DRF) for building RESTful APIs.
 - Testing Framework: Pytest for writing and running tests to ensure code quality and reliability.
 
-## All Projects
+## Other Projects
 
 Here is a list of all my projects. Click on the title to reveal more information.
 
@@ -139,7 +139,7 @@ Here is a list of all my projects. Click on the title to reveal more information
   
 </details>
 
-## Skills
+## Key Skills
 
 - **Languages**: Python, Swift, Kotlin, SQL
 - **Tools**: VSCode, Xcode, Android Studio, Git, GitHub, Docker
