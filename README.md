@@ -15,11 +15,10 @@ E-commerce Backend is a comprehensive project designed to mimic real-world e-com
 
 **Features:**
 - User authentication and authorization
-- Product management (CRUD)
-- Order management
-- Inventory management
-- Payment integration (simulated)
-- API documentation with Swagger
+- Product management (CRUD) (In progress)
+- Order management (Upcoming)
+- Inventory management (Upcoming)
+- Payment integration (simulated) (Upcoming)
 
 **Tech Stack:**
 - Backend: Python with Django for building APIs and handling business logic.
