@@ -53,9 +53,11 @@ Here is a list of all my projects. Click on the title to reveal more information
 
   [Google play](https://play.google.com/store/apps/details?id=se.alexanderandersson.colorfrenzy)
   
-  Color Frenzy is made in a group of three. This is a simple game where you have four buttons colored red, yellow, blue, and green. One of the colors will be randomly picked and shown at the top of the screen, and you have to press the correct color. If you press the wrong one, you lose and have to start over. There are three different difficulties, making this a simple game for every age. Then we have the time limit; you have a certain amount of time before you lose. For every point you get, the time will be shorter, making this harder and harder.
-  
-  Color Frenzy is made in Android Studio using Kotlin and XML. We worked together using Git through GitHub.
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="https://github.com/Bivvercode/Bivvercode/blob/main/assets/clr_frz_logo.png" alt="Color Frenzy Logo" width="128" style="margin-left: 20px;"/>
+    <p>Color Frenzy is made in a group of three. This is a simple game where you have four buttons colored red, yellow, blue, and green. One of the colors will be randomly picked and shown at the top of the screen, and you have to press the correct color. If you press the wrong one, you lose and have to start over. There are three different difficulties, making this a simple game for every age. Then we have the time limit; you have a certain amount of time before you lose. For every point you get, the time will be shorter, making this harder and harder.</p>
+    <p>Color Frenzy is made in Android Studio using Kotlin and XML. We worked together using Git through GitHub.</p>
+</div>
 
   <div align="center">
     <img src="https://github.com/Bivvercode/Bivvercode/blob/main/assets/clr_frz_1.png" alt="Color Frenzy Screenshot 1" width="300"/>
@@ -70,9 +72,20 @@ Here is a list of all my projects. Click on the title to reveal more information
 
   [Google play](https://play.google.com/store/apps/details?id=se.alexanderandersson.paintpals)
 
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="https://github.com/Bivvercode/Bivvercode/blob/main/assets/pp_logo.png" alt="Paint Pals Logo" width="128" style="margin-left: 20px;"/>
+  </div>
+
   Paint Pals was my first Android app and I wanted to do something different than ”pressing buttons in menus”. I chose to do a drawing app to test something new. Paint Pals is a simple drawing app, not made for artists. In Paint Pals you can draw with different sizes and colors on your brush. You can also use some premade shapes where you can choose color and size. You can save your drawings to your photo album with or without watermark. It is localized in Swedish and English.
 
   Paint Pals is created in Android Studio using Kotlin and XML.
+
+  <div align="center">
+    <img src="https://github.com/Bivvercode/Bivvercode/blob/main/assets/pp_1.png" alt="Paint Pals Screenshot 1" width="225"/>
+    <img src="https://github.com/Bivvercode/Bivvercode/blob/main/assets/pp_2.png" alt="Paint Pals Screenshot 2" width="225"/>
+    <img src="https://github.com/Bivvercode/Bivvercode/blob/main/assets/pp_3.png" alt="Paint Pals Screenshot 3" width="225"/>
+    <img src="https://github.com/Bivvercode/Bivvercode/blob/main/assets/pp_4.png" alt="Paint Pals Screenshot 4" width="225"/>
+  </div>
   
 </details>
 
