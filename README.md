@@ -11,7 +11,7 @@ Driven by curiosity, I continuously explore new technologies and methodologies, 
 ## Key Projects
 
 ### [E-commerce Backend](https://github.com/Bivvercode/ecommerce-backend)
-A comprehensive e-commerce backend designed to mimic real-world scenarios. This project serves as a learning tool for myself and others, providing a scalable backend that can be used by frontend developers to create their own mock frontends.
+E-commerce Backend is a comprehensive project designed to mimic real-world e-commerce scenarios. Developed primarily as a learning tool for myself, it also serves as an open resource for others to study, learn, and practice their backend development skills. The aim is to provide a robust and scalable backend solution that frontend developers can use to build their own mock frontends, enabling them to handle real-world situations without worrying about finding another backend to integrate with.
 
 **Features:**
 - User authentication and authorization
@@ -22,11 +22,10 @@ A comprehensive e-commerce backend designed to mimic real-world scenarios. This 
 - API documentation with Swagger
 
 **Tech Stack:**
-- Node.js
-- Express.js
-- MongoDB
-- JWT for authentication
-- Docker for containerization
+- Backend: Python with Django for building APIs and handling business logic.
+- Database: SQLite3 for storing product and user data.
+- API Framework: Django Rest Framework (DRF) for building RESTful APIs.
+- Testing Framework: Pytest for writing and running tests to ensure code quality and reliability.
 
 ![E-commerce Backend Screenshot](https://github.com/Bivvercode/Bivvercode/blob/main/assets/ecommerce-backend-screenshot.png)
 
