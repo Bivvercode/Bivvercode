@@ -45,6 +45,7 @@ Here is a list of all my projects. Click on the title to reveal more information
   [GitHub repository](https://github.com/Bivvercode/SortingAlgorithmsVisualizer)
   
   SortingAlgorithmsVisualizer is pretty much a self explanatory name. This was my first "completed" hobby project fully public on GitHub. When I was planning this I wanted to do    something "simple" but still could challenge me. The reason for me to keep it simple was because this would be a cross platform app for Android and iOS. I wanted to be able to    test my skills in algorithms and by visualizing it I made it a bit harder.
+  
   The app is using bubble sort as a visualization to show what happens in "the back". This app was made with KMM Compose Multiplatform. Most of the code is written in kotlin and    some minor parts in Swift. This made it possible to use one code base for both Android and iOS. 
 
   <div align="center">
