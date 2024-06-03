@@ -6,7 +6,7 @@
 2. [Key Projects](#key-projects)
 3. [All Projects](#all-projects)
 4. [Skills](#skills)
-5. [Experience](#experience)
+5. [Relevant Experience](#relevant-experience)
 6. [Contact](#contact)
 
 ## About Me
@@ -141,14 +141,19 @@ Here is a list of all my projects. Click on the title to reveal more information
 
 ## Skills
 
-- **Languages**: Swift, Kotlin, Python, JavaScript
-- **Tools**: Xcode, Android Studio, Git, Docker, AWS
-- **Frameworks**: SwiftUI, Jetpack Compose, Django, Express.js
+- **Languages**: Python, Swift, Kotlin, SQL
+- **Tools**: VSCode, Xcode, Android Studio, Git, GitHub, Docker
+- **Frameworks**: Django, SwiftUI, Jetpack Compose
+- **Database**: SQLite, PostgreSQL
+- **API-Design**: RESTful API, Websocket
+- **Cloud**: AWS
+- **Testing**: Pytest, Postman
+- **Other**: GitHub Actions, Documentation, Monitoring
 
-## Experience
+## Relevant Experience
 
-- **Company 1** - Software Developer (2022 - Present)
-- **Company 2** - Intern (2020 - 2021)
+- **Hestia Agora** - Backend Developer (2023 - current)
+- **Hestia Agora** - Mobile App Developer Internship (2022 - 2023)
 
 ## Contact
 
