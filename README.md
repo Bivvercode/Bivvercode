@@ -26,65 +26,6 @@ E-commerce Backend is a comprehensive project designed to mimic real-world e-com
 - API Framework: Django Rest Framework (DRF) for building RESTful APIs.
 - Testing Framework: Pytest for writing and running tests to ensure code quality and reliability.
 
-### Published Apps
-
-Here are some of the mobile applications I've developed and published on the App Store and Google Play Store.
-
-#### [App Name 1](https://link-to-appstore-or-playstore)
-A brief description of App Name 1. This app is designed to [describe the main functionality and purpose].
-
-**Technologies Used:**
-- Swift
-- SwiftUI
-- Core Data
-
-![App Name 1 Screenshot](https://github.com/Bivvercode/Bivvercode/blob/main/assets/app-name-1-screenshot.png)
-
-#### [App Name 2](https://link-to-appstore-or-playstore)
-A brief description of App Name 2. This app focuses on [describe the main functionality and purpose].
-
-**Technologies Used:**
-- Kotlin
-- Jetpack Compose
-- Retrofit
-
-![App Name 2 Screenshot](https://github.com/Bivvercode/Bivvercode/blob/main/assets/app-name-2-screenshot.png)
-
-#### [App Name 3](https://link-to-appstore-or-playstore)
-A brief description of App Name 3. This app helps users to [describe the main functionality and purpose].
-
-**Technologies Used:**
-- Kotlin
-- Jetpack Compose
-- Room
-
-![App Name 3 Screenshot](https://github.com/Bivvercode/Bivvercode/blob/main/assets/app-name-3-screenshot.png)
-
-#### [App Name 4](https://link-to-appstore-or-playstore)
-A brief description of App Name 4. This app offers [describe the main functionality and purpose].
-
-**Technologies Used:**
-- Swift
-- UIKit
-- Firebase
-
-![App Name 4 Screenshot](https://github.com/Bivvercode/Bivvercode/blob/main/assets/app-name-4-screenshot.png)
-
-### Experimental Project
-
-#### [KMM Compose Multiplatform Project](https://github.com/Bivvercode/kmm-compose-project)
-This is a small project using Kotlin Multiplatform Mobile (KMM) with Compose to create a cross-platform application. 
-
-**Features:**
-- Shared business logic across iOS and Android
-- Compose UI for both platforms
-- Local storage using shared preferences
-
-**Tech Stack:**
-- Kotlin Multiplatform Mobile
-- Jetpack Compose
-- SwiftUI (for iOS)
-
 ![KMM Compose Project Screenshot](https://github.com/Bivvercode/Bivvercode/blob/main/assets/kmm-compose-screenshot.png)
 
 ## All Projects
@@ -98,6 +39,8 @@ Here is a list of all my projects. Click on the title to reveal more information
   
   SortingAlgorithmsVisualizer is pretty much a self explanatory name. This was my first "completed" hobby project fully public on GitHub. When I was planning this I wanted to do    something "simple" but still could challenge me. The reason for me to keep it simple was because this would be a cross platform app for Android and iOS. I wanted to be able to    test my skills in algorithms and by visualizing it I made it a bit harder.
   The app is using bubble sort as a visualization to show what happens in "the back". This app was made with KMM Compose Multiplatform. Most of the code is written in kotlin and    some minor parts in Swift. This made it possible to use one code base for both Android and iOS. 
+
+  
 </details>
 
 <details>
